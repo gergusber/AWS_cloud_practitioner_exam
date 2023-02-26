@@ -1,0 +1,1 @@
+# AWS_cloud_practitioner_exam
